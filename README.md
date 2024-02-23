@@ -1,2 +1,2 @@
 # JuanDCuervoG
-EStudiante Universidad Ecci en Ingenieria Mecatronica
+Estudiante Universidad Ecci en Ingenieria Mecatronica
